@@ -1,0 +1,72 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: sans-serif;
+}
+
+.banner {
+   background-image: url("../img/tms.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   height: 100vh;
+}
+
+body{
+   
+}
+header{
+   display: flex;
+   min-height: 70px;
+   justify-content: space-between;
+   align-items: center;
+}
+
+
+.logo img{
+   height: 30px;
+   align-items: center;
+   margin-left: 100px;
+   
+}
+
+a{
+   text-decoration: none;
+   color: white;
+}
+
+nav{
+   margin-right: 100px;
+}
+nav a{
+   padding-right: 11px;
+}
+
+.titulogo{
+   margin-left: 100px;
+   width: 550px;
+}
+table{
+   margin-left: 100px;
+}
+
+td{
+   color: gray;
+   padding-right: 20px;
+}
+.edad{
+   text-align: center;
+   color: white;
+   background-color: red;
+}
+.anio{
+   
+}
+p{
+   color: white;
+   text-align: left;
+   margin-left: 100px;
+   margin-right: 745px;
+   
+}
